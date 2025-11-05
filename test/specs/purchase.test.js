@@ -1,0 +1,1 @@
+describe('Compra', () => { it('deve concluir uma compra', () => { console.log('Compra test executado'); }); });
